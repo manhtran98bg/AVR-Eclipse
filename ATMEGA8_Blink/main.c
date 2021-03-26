@@ -15,4 +15,5 @@ int main()
 		PORTC ^=(1<<PC0);
 		_delay_ms(1000);
 	}
+	return 0;
 }
